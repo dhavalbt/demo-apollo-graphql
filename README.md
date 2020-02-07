@@ -1,3 +1,8 @@
+## To get client id & client secret Below link help you.
+
+- [https://github.com/settings/developers](Click here to get client ID & client secret) 
+- You have to create Your project App for getting client id & client secret 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
